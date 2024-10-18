@@ -1,5 +1,5 @@
 # Data Science & Machine Learning Portfolio
-Welcome to my Data Science and Machine Learning portfolio! This repository showcases a collection of projects where I applied a variety of statistical techniques, data analysis methods, and machine learning models. Each project represents a unique exploration into data-driven insights and predictive modeling.
+Welcome to my Data Science and Machine Learning portfolio! This repository showcases a collection of projects where I applied a variety of statistical techniques, data analysis methods, and machine learning models, primarily using **Python** and **R**. Each project represents a unique exploration into data-driven insights and predictive modeling.
 
 The projects in this repository stem from a blend of inspirations:
 
